@@ -1,0 +1,10 @@
+.title {
+  text-align: center;
+}
+.input-todo,
+.btn-to-do,
+.list-to-do {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
