@@ -34,3 +34,5 @@ If you are developing a production application, we recommend using TypeScript wi
 # cũ : a = ["working" , "study"]
 
 # mới : b = [ {} ]
+
+# có 2 cách giao tiếp HTTP với API là phương thức fetch ( có sẵn ) và axios ( cài thêm )
